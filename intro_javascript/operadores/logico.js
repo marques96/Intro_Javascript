@@ -1,0 +1,15 @@
+console.log("Tabela verdade do && - logical AND");
+console.log(`true && true: ${true && true}`);
+console.log(`true && false: ${true && false}`);
+console.log(`false && true: ${false && true}`);
+console.log(`false && false: ${false && false}`);
+console.log("\n###################################\n");
+console.log("Tabela verdade do || - logical OR");
+console.log(`true || true: ${true || true}`);
+console.log(`true || false: ${true || false}`);
+console.log(`false || true: ${false || true}`);
+console.log(`false || false: ${false || false}`);
+console.log("\n###################################\n");
+console.log("Tabela verdade do ! - Negação");
+console.log(`!true: ${!true}`);
+console.log(`!false: ${!false}`);
